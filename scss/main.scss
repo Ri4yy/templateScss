@@ -4,9 +4,11 @@
 @import "./base/base";
 // Blocks
 @import "./blocks/header";
+@import "./blocks/modal";
 @import "./blocks/menu";
 @import "./blocks/menu-nav";
-@import "./blocks/modal";
 @import "./blocks/btn";
-@import "./blocks/menu";
-@import "./blocks/modal";
+// Custom
+@import "./blocks/custom-checkbox";
+@import "./blocks/custom-radio";
+
