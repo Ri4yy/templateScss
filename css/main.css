@@ -759,3 +759,14 @@ h3 {
     height: 14px;
   }
 }
+
+.tabs__content {
+  display: none;
+}
+.tabs__content.active {
+  display: block;
+}
+
+.active-tab {
+  color: #548235;
+}
